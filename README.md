@@ -1,4 +1,4 @@
-MazeSolver
+00MazeSolver
 ==========
 
 Programa generador y solucionador de laberintos utilizando técnicas de IA basadas en el paradigma de agentes.
